@@ -1,6 +1,5 @@
 {
-  "name": "@boertel/uniforms-material",
-  "private": false,
+  "name": "uniforms-mui-5",
   "version": "1.0.0",
   "license": "MIT",
   "main": "./cjs/index.js",
