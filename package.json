@@ -1,5 +1,5 @@
 {
-  "name": "@comedia/uniforms-material",
+  "name": "@boertel/uniforms-material",
   "version": "1.0.0",
   "license": "MIT",
   "main": "./cjs/index.js",
