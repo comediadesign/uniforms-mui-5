@@ -1,12 +1,10 @@
 {
-  "extends": "../../tsconfig.json",
+  "extends": "./tsconfig.json",
   "compilerOptions": {
     "baseUrl": "src",
     "outDir": "cjs",
     "rootDir": "src",
-    "module": "CommonJS",
-    "tsBuildInfoFile": "../../node_modules/.cache/uniforms-material.cjs.tsbuildinfo"
+    "module": "CommonJS"
   },
-  "include": ["src"],
-  "references": [{ "path": "../uniforms/tsconfig.cjs.json" }]
+  "include": ["src"]
 }

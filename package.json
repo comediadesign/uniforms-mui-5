@@ -4,11 +4,13 @@
   "license": "MIT",
   "main": "./cjs/index.js",
   "module": "./esm/index.js",
+  "scripts": {
+    "build": "tsc --build tsconfig.build.json"
+  },
   "sideEffects": false,
   "description": "Material UI components for uniforms.",
-  "repository": "https://github.com/vazco/uniforms/tree/master/packages/uniforms-material",
-  "bugs": "https://github.com/vazco/uniforms/issues",
-  "funding": "https://github.com/vazco/uniforms?sponsor=1",
+  "repository": "https://github.com/comediadesign/uniforms-material",
+  "bugs": "https://github.com/comediadesign/uniforms-material/issues",
   "keywords": [
     "form",
     "forms",
