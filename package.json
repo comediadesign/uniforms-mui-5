@@ -1,6 +1,6 @@
 {
   "name": "uniforms-mui-5",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "./cjs/index.js",
   "module": "./esm/index.js",
